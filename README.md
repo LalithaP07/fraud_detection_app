@@ -55,17 +55,7 @@ Built using state-of-the-art models like **BERT**, an intelligent **RAG-style re
 └── .streamlit/
     └── config.toml             # Theme settings for Streamlit
 
-📦 Installation
-🔧 Local Setup
-bash
-Copy
-Edit
-# Clone the repo
-git clone https://github.com/yourusername/fraud-detection-app.git
-cd fraud-detection-app
 
-# Install dependencies
-pip install -r requirements.txt
 
 # Run the app
 streamlit run fraud_detection_app.py
